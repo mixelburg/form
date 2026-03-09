@@ -1,5 +1,12 @@
 # @tanstack/angular-form
 
+## 1.28.5
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @tanstack/form-core@1.28.5
+
 ## 1.28.4
 
 ### Patch Changes
